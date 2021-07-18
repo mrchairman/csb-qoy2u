@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mrchairman.github.io/csb-qoy2u/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mrchairman.github.io/csb-qoy2u/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://mrchairman.github.io/csb-qoy2u/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://mrchairman.github.io/csb-qoy2u/static/js/runtime-main.c41ac5f7.js",
+    "runtime-main.js.map": "https://mrchairman.github.io/csb-qoy2u/static/js/runtime-main.c41ac5f7.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://mrchairman.github.io/csb-qoy2u/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://mrchairman.github.io/csb-qoy2u/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://mrchairman.github.io/csb-qoy2u/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mrchairman.github.io/csb-qoy2u/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://mrchairman.github.io/csb-qoy2u/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41ac5f7.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
