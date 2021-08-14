@@ -3,7 +3,7 @@ module.exports = {
     FB_VERIFY_TOKEN: 'lshop-chat-herokuapp-webhook',
     FB_APP_SECRET: '06252d311d91f46951c8492cd999461a',
     SERVER_URL: 'https://lshop-chat.herokuapp.com/',
-    GOOGLE_PROJECT_ID: '',
+    GOOGLE_PROJECT_ID: 'xxxxx',
     DF_LANGUAGE_CODE: '',
     GOOGLE_CLIENT_EMAIL: '',
     GOOGLE_PRIVATE_KEY: ''
