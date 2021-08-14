@@ -1,8 +1,8 @@
 module.exports = {
-    FB_PAGE_TOKEN: '',
-    FB_VERIFY_TOKEN: '',
-    FB_APP_SECRET: '',
-    SERVER_URL: '',
+    FB_PAGE_TOKEN: 'EAAShUBZBan44BAKC5il1kk005YZBsKS06EGOy194AtgxuqafKRJRV1687JS0sxRsFRvtLEFxejvoBymEFFh0pGJk95WZCW3hN6gMpgNP0wBFLKyVZB0KwG9Ekiv6wiWwZCb07JAilLNJZCtUQwcwFA8GuM4cPlvdZAIzUb2OOtm8P2aGxdAcP684ck2zkZAu0U8hkEsjONMH4QZDZD',
+    FB_VERIFY_TOKEN: 'lshop-chat-herokuapp-webhook',
+    FB_APP_SECRET: '06252d311d91f46951c8492cd999461a',
+    SERVER_URL: 'https://lshop-chat.herokuapp.com/',
     GOOGLE_PROJECT_ID: '',
     DF_LANGUAGE_CODE: '',
     GOOGLE_CLIENT_EMAIL: '',
